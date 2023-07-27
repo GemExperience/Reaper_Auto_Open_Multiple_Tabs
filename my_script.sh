@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the correct directory
-cd "/Volumes/Mojave/Users/torbenscharling/Music/Jamtaba"
+cd "/Volumes/Mojave/Users/REMEMBER TO SET THE CORRECT PATH TO THE MAIN DIRECTORY HERE"
 
 # Create the error log file if it doesn't exist
 error_log_file="./error_log.txt"
