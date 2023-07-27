@@ -1,0 +1,20 @@
+How to:
+
+Navigate to this folder:
+
+cd /Volumes/Mojave/Users/torbenscharling/Music/Jamtaba
+
+Then this:
+
+chmod +x my_script.sh
+
+Enter
+
+Then type:
+
+./my_script.sh
+
+Enter to run the script...
+
+Gem Ex
+
