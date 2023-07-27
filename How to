@@ -2,19 +2,21 @@ How to:
 
 Navigate to this folder:
 
-cd /Volumes/Mojave/Users/torbenscharling/Music/Jamtaba
+cd /Volumes/PUT THE REST OF THE FILEPATH HERE
 
-Then this:
+Then copy paste this:
 
 chmod +x my_script.sh
 
-Enter
+Ht Enter
 
 Then type:
 
 ./my_script.sh
 
-Enter to run the script...
+Hit Enter to run the script...
+
+Reaper does not have to be opened first.
 
 Gem Ex
 
